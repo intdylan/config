@@ -6,10 +6,10 @@ muge:
         c: 2
       clients:
         - e
-        - f
     - name: d
       parameters:
         b: 3
         c: 4
       clients:
+        - f
         - g
